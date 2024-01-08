@@ -40,7 +40,7 @@ This is a PowerFull Telegram File Rename and thumbnail & caption Changer Bot wit
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/SudoR2spr/Op-File-Renamer-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/thankan-kurups/Op-File-Renamer-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
