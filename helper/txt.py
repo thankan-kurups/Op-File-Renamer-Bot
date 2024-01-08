@@ -6,7 +6,7 @@ class mr(object):
 ┣⪼ ⏳️ : {0}%
 ┣⪼ 🚀 : {3}/s
 ┣⪼ ⏱️ : {4}
-╰━━━❖ 𝐖𝐃 𝐙𝐎𝐍𝐄 ❖ ™━━➣ """
+╰━━━❖ Rename ❖ ™━━➣ """
 
     ABOUT_TXT = """
 ╭───────────⍟
@@ -17,6 +17,7 @@ class mr(object):
 ├✏️ Language : <a href=https://www.python.org>Python 3</a>
 ├💾 Database : <a href=https://cloud.mongodb.com>MongoDB</a>
 ├🌀 My Server : <a href=https://dashboard.render.com>Render</a>
+├💸 Buy Same Bot : <a href=https://t.me/moviecrownofficial>Movie Crown</a>
 ├📊 Build Status : v3.6.8             
 ╰───────────────⍟
                                 """
